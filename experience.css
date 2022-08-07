@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+}
+
+/*body{
+    margin: 3em;
+}
+
+nxav{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    padding: 2em;
+}
+
+#ndkiv1{
+    display: flex;
+    float: left;
+}
+
+#ndivm2{
+    display: flex;
+    float: right;
+    text-align: center;
+}*//*
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 70px;
+}
+h1 span{
+    color: red;
+}
+h1 img{
+    position: absolute;
+    margin-left: -2.6em;
+    margin-top: 0.7em;
+}
+
+#p{
+    font-size: 40px;
+    padding: 0 8em;
+    text-align: center;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}*/
+
+nav{
+    position: fixed;
+    display: flex;
+    width: 100%;
+    background-color: white;
+    margin-top: -20px;
+}
+
+body{
+    margin: 0;
+    width: 100%;
+}
+
+
+#sec1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 6em;
+    padding-top: 10em;
+    margin: 0;
+}
+
+#sec11{
+    display: grid;
+    width: 60%;
+}
+#sec12{
+    width: 40%;
+    display: block;
+}
+
+
+.p1{
+    font-size: 40px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+#line1{
+    position: relative;
+    margin-left: 55%;
+    margin-top: -5%;
+}
+
+#image{
+    width: 100%;
+}
+
+#line2{
+    position: absolute;
+    z-index: -1;
+    margin-top: -15em;
+    margin-left: 26.5em;
+    width: 135px;
+}
+
+#sec2{
+    width: 100%;
+    background-image: url("Resources/Experience/bgsection2.png");
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 0 6em;
+}
+#sec21{
+    width: 50%;
+    display: grid;
+}
+#sec22{
+    width: 50%;
+}
+#image2{
+    width: 100%;
+}
+#sec211{
+    width: 100%;
+    display: flex;
+}
+
+#sec3{
+    display: grid;
+    padding: 0 6em;
+    width: 100%;
+}
+
+.sec31{
+    width: 40%;
+}
+
+.sec32{
+    display: flex;
+    width: 80%;
+}
